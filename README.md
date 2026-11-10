@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/moki25/moki25/master/header.gif" width="100%" />
 
   # 👋 Hi, I'm Komal Bagwe
-  ### MS in Computer Science @ NYU Tandon | Ex-Senior Software Engineer @ Accenture
+  ### MS in Computer Science @ NYU Tandon | Ex-Software Engineer @ Accenture
   **Full-Stack Developer | Distributed Systems & AI/ML Enthusiast**
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/komalbagwe/)
